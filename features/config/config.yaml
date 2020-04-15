@@ -1,0 +1,8 @@
+browser: :chrome  ###:selenium_chrome_headless, :firefox,  :chrome  para executar no google-chrome  ###  :remote  para executar no servidor 
+server_host: "http://localhost:4444"
+server_port: 55555
+url: "http://localhost:4444/wd/hub"
+remote: false
+default_max_wait_time: 40
+verify_version: false
+headless: true  # Deixar como true para funcionar também com headless (docker = true)

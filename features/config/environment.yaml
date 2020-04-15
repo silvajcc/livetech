@@ -1,0 +1,19 @@
+HOME:
+  DEV:
+    url: 'http://{store_id}'
+  HOM: 
+    url: 'http://www.{store_id}.com.br/'
+  PRD: 
+    url: 'http://www.{store_id}.com.br/'
+  CI:
+    url: 'http://www.{store_id}.com.br/'
+ 
+CART:
+  DEV:
+    url: 'https://{store_id}-dev'
+  HOM:
+    url: 'https://www.{store_id}.com.br/checkout/#/cart'
+  PRD: 
+    url: 'https://cart.{store_id}.com.br/Carrinho'
+  CI: 
+    url: 'https://www.{store_id}.com.br/checkout/#/cart'

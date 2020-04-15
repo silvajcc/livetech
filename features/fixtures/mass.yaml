@@ -1,0 +1,13 @@
+DAILUS:
+  produtos:
+    produto_valido_1:
+      nome: 'Corretivo Soft New'
+      preco: '21,12'
+
+    produto_valido_2: 
+      nome: 'Caneta Delineadora - Cat'
+      preco: '26,49'
+
+    produto_invalido_1: 
+      nome: 'Playstation - Fifa20'
+      preco: '179,90'

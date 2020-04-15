@@ -1,0 +1,6 @@
+reports/
+*.json
+*.html
+Gemfile.lock
+rerun*
+debug.log
